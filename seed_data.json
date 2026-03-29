@@ -1,0 +1,230 @@
+{
+  "dimboss": [
+    {
+      "id": "selu",
+      "name": "Selu",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "core_7",
+      "name": "Core 7",
+      "cycle_minutes": 600
+    },
+    {
+      "id": "chertuba",
+      "name": "Chertuba",
+      "cycle_minutes": 360
+    },
+    {
+      "id": "pan_narod",
+      "name": "Pan Narod",
+      "cycle_minutes": 300
+    },
+    {
+      "id": "felis",
+      "name": "Felis",
+      "cycle_minutes": 180
+    },
+    {
+      "id": "pan_dra_eed",
+      "name": "Pan Dra'eed",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "saban",
+      "name": "Saban",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "flint",
+      "name": "Flint",
+      "cycle_minutes": 300
+    },
+    {
+      "id": "hysilome",
+      "name": "Hysilome",
+      "cycle_minutes": 360
+    },
+    {
+      "id": "quuen_ant",
+      "name": "Quuen Ant",
+      "cycle_minutes": 360
+    },
+    {
+      "id": "behemoth",
+      "name": "Behemoth",
+      "cycle_minutes": 540
+    },
+    {
+      "id": "glaki",
+      "name": "Glaki",
+      "cycle_minutes": 480
+    },
+    {
+      "id": "db",
+      "name": "DB",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "basila",
+      "name": "Basila",
+      "cycle_minutes": 240
+    },
+    {
+      "id": "kelus",
+      "name": "Kelus",
+      "cycle_minutes": 600
+    },
+    {
+      "id": "muta_cruma",
+      "name": "Muta Cruma",
+      "cycle_minutes": 480
+    },
+    {
+      "id": "talakin",
+      "name": "Talakin",
+      "cycle_minutes": 600
+    },
+    {
+      "id": "sarka",
+      "name": "Sarka",
+      "cycle_minutes": 600
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "cycle_minutes": 600
+    },
+    {
+      "id": "katan",
+      "name": "Katan",
+      "cycle_minutes": 600
+    },
+    {
+      "id": "enkura",
+      "name": "Enkura",
+      "cycle_minutes": 360
+    },
+    {
+      "id": "tempest",
+      "name": "Tempest",
+      "cycle_minutes": 360
+    },
+    {
+      "id": "matura",
+      "name": "Matura",
+      "cycle_minutes": 360
+    },
+    {
+      "id": "stone",
+      "name": "Stone",
+      "cycle_minutes": 420
+    },
+    {
+      "id": "timitris",
+      "name": "Timitris",
+      "cycle_minutes": 480
+    },
+    {
+      "id": "harp",
+      "name": "Harp",
+      "cycle_minutes": 1200
+    },
+    {
+      "id": "lepiro",
+      "name": "Lepiro",
+      "cycle_minutes": 420
+    },
+    {
+      "id": "cruma_3",
+      "name": "Cruma 3",
+      "cycle_minutes": 480
+    },
+    {
+      "id": "tromba",
+      "name": "Tromba",
+      "cycle_minutes": 420
+    },
+    {
+      "id": "timiniel",
+      "name": "Timiniel",
+      "cycle_minutes": 480
+    },
+    {
+      "id": "black_lily",
+      "name": "Black LiLy",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "corun",
+      "name": "Corun",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "randor",
+      "name": "Randor",
+      "cycle_minutes": 540
+    },
+    {
+      "id": "enkura_2",
+      "name": "Enkura",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "guong",
+      "name": "Guong",
+      "cycle_minutes": 660
+    },
+    {
+      "id": "samuel",
+      "name": "Samuel",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "andras",
+      "name": "Andras",
+      "cycle_minutes": 900
+    },
+    {
+      "id": "balbo",
+      "name": "Balbo",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "breka",
+      "name": "Breka",
+      "cycle_minutes": 360
+    },
+    {
+      "id": "cabrio",
+      "name": "Cabrio",
+      "cycle_minutes": 720
+    },
+    {
+      "id": "gahareth",
+      "name": "Gahareth",
+      "cycle_minutes": 540
+    },
+    {
+      "id": "talkin",
+      "name": "Talkin",
+      "cycle_minutes": 480
+    },
+    {
+      "id": "tinh_linh",
+      "name": "Tinh Linh",
+      "cycle_minutes": 1440
+    },
+    {
+      "id": "ofen",
+      "name": "Ofen",
+      "cycle_minutes": 1440
+    },
+    {
+      "id": "dohuyy",
+      "name": "dohuyy",
+      "cycle_minutes": 6
+    }
+    
+  ]
+}

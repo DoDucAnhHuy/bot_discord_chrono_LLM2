@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Local env files
+.env
+
+# Sensitive Firebase credentials
+firebase_credentials.json
+
+# IDE/OS
+.vscode/
+.DS_Store
+Thumbs.db

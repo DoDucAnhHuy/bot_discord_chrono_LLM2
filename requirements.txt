@@ -1,0 +1,5 @@
+discord.py==2.4.0
+audioop-lts==0.2.1      # backport of audioop removed in Python 3.13
+firebase-admin==6.5.0
+google-cloud-firestore==2.16.0
+python-dotenv==1.0.1
